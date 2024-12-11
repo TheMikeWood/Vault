@@ -1,0 +1,8 @@
+h1 {
+  /* Create a nice heading */
+  font-size: 64px;
+  text-align: center;
+  color: goldenrod;
+  font-weight: bold;
+  font-family: gothic medium;
+}
