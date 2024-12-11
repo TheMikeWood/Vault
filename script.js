@@ -7,5 +7,5 @@ const num1 = 5 * 2;
 const num2 = 42 - (27 % 5);
 // Declare third variable
 const num3 = 117 / 3;
-// concatonate consts inside of an alert popup
+// concatonate consts inside of an alert popup that displays the message and the code
 alert(string1 + num1 + " - " + num2 + " - " + num3);
